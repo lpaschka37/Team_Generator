@@ -1,0 +1,30 @@
+{
+  "name": "team_generator",
+  "version": "1.0.0",
+  "description": "OOP and test for homework",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lpaschka37/Team_Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lpaschka37/Team_Generator/issues"
+  },
+  "homepage": "https://github.com/stevetrilogy/unit10hw#readme",
+  "dependencies": {
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
