@@ -1,1 +1,1 @@
-# Team_Gnerator
+# Team_Generator
