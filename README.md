@@ -43,9 +43,10 @@ Your generated team.html file can then be found in the /output folder.
 
 ## Demo
 
-<img src="" width="500" alt="application demo">
+<img src="./assets/images/Team_Generator_.gif" width="500" alt="application demo">
 
-High-resolution video: 
+High-resolution video: https://youtu.be/M-xEmXxfwiU
+
 
 ## License
   
