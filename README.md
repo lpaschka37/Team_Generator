@@ -19,13 +19,13 @@ This is a Node CLI application designed to prompt the user for information about
 
 ## Install Instructions
 
-You will need [Node.js](https://nodejs.org/en/) to run this application, ensure Node.js is installed first.  
+[Node.js](https://nodejs.org/en/) is required to run this application, ensure Node.js is installed.  
 
-Lets get started, ensure the following files and folders are present in the root directory:   
+Ensure the following files and folders are present in the root directory to get started:   
 
 * ```package.json``` (contains dependencies)
 
-Next, open the integrated terminal and run the following command to install [Inquirer](https://www.npmjs.com/package/inquirer):
+Step 2: Open the integrated terminal and run the following command to install [Inquirer](https://www.npmjs.com/package/inquirer):
 
     npm install  
 
@@ -33,11 +33,11 @@ Once installed, confirm the folder ```/node_modules/inquirer``` is present befor
 
 ## Usage Instructions
 
-Open an integrated terminal or bash command prompt and run the following command from the /develop directory:
+Open the integrated terminal or bash command prompt and run the following command from the directory:
 
     node app.js
 
-Then answer each question to build your team. After adding a Manager, select Engineer or Intern to add a new member with that role. When you're finished, select 'Render'.
+Answer the questions to build up your team. After adding a Manager, select either Engineer or Intern to add a new member with that role. When you're finished, select 'Render'.
 
 Your generated team.html file can then be found in the /output folder.
 
@@ -68,7 +68,7 @@ Test results will be displayed in the terminal.
 
 ## Questions
 
-If you have any questions, contact the author:  
+Questions??, contact the author:  
 
 GitHub [@lpaschka](https://github.com/lpaschka37)  
 Email [lpaschka37@gmail.com](mailto:kylekleven8@gmail.com)
