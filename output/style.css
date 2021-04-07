@@ -1,0 +1,38 @@
+h2, h3 {
+    color: #00d9ff;
+}
+
+.top{
+    height: 150px;
+
+}
+
+.bg-card {
+    background-color: #4a4a4a;
+    color: chartreuse;
+}
+
+.icon {
+    padding-right: 10px;
+    color: chartreuse;
+}
+
+.header {
+    color: chartreuse;
+    margin-top: 40px;
+}
+
+.team-main {
+    display: flex;
+    float: none;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
+
+.employee-card {
+    width: 100%;
+    display: flex;
+    float: none;
+    margin: 0 auto;
+    flex-wrap: wrap;
+}
